@@ -1,23 +1,9 @@
-# 💫 About Me
+# 💫 About Me:
+<br>Electrical Engineer with a strong foundation in embedded systems, artificial intelligence, and data-driven problem solving. Currently pursuing an MS in Artificial Intelligence and Autonomous Systems at SEECS, NUST. Experienced with microcontrollers (ESP32, STM32, Arduino), machine learning models, and real-time systems through academic projects and industry internships. Passionate about building practical, scalable solutions at the intersection of hardware and intelligent software.<br>
 
-**Electrical Engineer** specializing in **Embedded Systems**, **Artificial Intelligence**, and **Data-Driven Problem Solving**
 
-Currently pursuing an **MS in Artificial Intelligence & Autonomous Systems** at SEECS, NUST — building at the intersection of intelligent software and real-time hardware systems.
-
-- 🔧 Hands-on experience with **ESP32**, **STM32**, and **Arduino** microcontroller ecosystems
-- 🤖 Developing and deploying **ML/DL models** for real-world autonomous applications
-- 🏭 Industry-validated through **engineering internships** across embedded and AI domains
-- 🎯 Focused on **scalable, production-ready** solutions bridging hardware and intelligent software
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-mafnan786)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imeffi786)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/call_me_effi)
-
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imeffi786) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/call_me_effi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-mafnan786) 
 
 # 💻 Tech Stack
 
@@ -64,7 +50,6 @@ Currently pursuing an **MS in Artificial Intelligence & Autonomous Systems** at 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-
 ### ⚙️ DevOps, Testing & Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -72,79 +57,36 @@ Currently pursuing an **MS in Artificial Intelligence & Autonomous Systems** at 
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engr-afnan786&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=engr-afnan786&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-afnan786&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=engr-afnan786&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=engr-afnan786&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-afnan786&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=engr-afnan786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=engr-afnan786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=engr-afnan786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🔬 Featured Project
+
+**[🧮 SLM Math Storyteller — RAG Enhanced](https://github.com/engr-afnan786/SLM-Math-Storyteller-RAG)**
+
+A CPU-only AI system that co-creates math adventure stories with students using RAG, automated math verification, and coherence tracking. 72% error reduction, 15+ turn coherence, zero API cost.
+
+`Python` `RAG` `FAISS` `LLM` `Gradio` `SymPy` `spaCy`
 ---
 
-## 🔝 Top Contributed Repositories
+[![](https://visitcount.itsvg.in/api?id=engr-afnan786&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=engr-afnan786&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-## 🔬 Featured Project
-
-<div align="center">
-
-
-### **[🚀 View Project Repository](https://github.com/engr-afnan786/SLM-Math-Storyteller-RAG)**
-
-> *A CPU-only AI system that co-creates mathematical adventure stories with students,
-> combining Retrieval-Augmented Generation (RAG) with automated math verification
-> and long-context coherence tracking.*
-
-| Metric | Result |
-|--------|--------|
-| 📉 Math Error Reduction | **72%** |
-| 🔄 Conversation Coherence | **15+ turns** |
-| 💰 API Cost | **Zero** |
-| ⚙️ Hardware Requirement | **CPU-only** |
-
-**Tech Stack:**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-
-`RAG` · `FAISS Vector Search` · `Small Language Models` · `Symbolic Math Verification` · `Gradio UI` · `spaCy NLP`
-
-</div>
-
----
-
-### ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
