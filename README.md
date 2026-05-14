@@ -25,15 +25,6 @@
 
 <div align="center">
 
-**@ NUST** | AI · ML · NLP · RAG
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/engr-afnan786)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:afnanawan786@gmail.com)
-
-</div>
-
----
-
 ### 🔬 Featured Project
 
 **[🧮 SLM Math Storyteller — RAG Enhanced](https://github.com/engr-afnan786/SLM-Math-Storyteller-RAG)**
@@ -43,20 +34,6 @@ A CPU-only AI system that co-creates math adventure stories with students using 
 `Python` `RAG` `FAISS` `LLM` `Gradio` `SymPy` `spaCy`
 
 ---
-
-### 🛠️ Tech Stack
-
-`Python` `LangChain` `FAISS` `llama.cpp` `PyTorch` `spaCy` `Gradio`
-`SymPy` `NumPy` `HuggingFace` `Git` `LaTeX`
-
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=engr-afnan786&show_icons=true&theme=default&hide_border=true" width="420"/>
-
----
-
 
 [![](https://visitcount.itsvg.in/api?id=engr-afnan786&icon=0&color=0)](https://visitcount.itsvg.in)
 
